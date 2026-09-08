@@ -5,7 +5,7 @@ about:
   head: 4a0ab52
   archived: false
   latestVersion: "v0.10.0"
-  collectedAt: 2026-09-08T01:51:31Z
+  collectedAt: 2026-09-08T04:39:31Z
 timeline:
   created: 2025-08-08
   lastCommit: 2026-08-28
@@ -85,7 +85,7 @@ total:
   commit: 239
 ---
 path: /home/runner/.x-repo/github.com/micahkepe/jsongrep
-collectedAt: 2026-09-08T01:51:39Z
+collectedAt: 2026-09-08T04:39:39Z
 loc:
   Rust:
     code: 6676
