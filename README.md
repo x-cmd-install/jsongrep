@@ -23,7 +23,21 @@ x install jsongrep
 - **Latest**: `v0.10.0` (2026-08-28)
 - **Last commit**: 2026-08-28
 - **Assets in release**: 10
-- **Published**: 2026-08-28T12:18:28Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [jsongrep-0.10.0-aarch64-apple-darwin.tar.gz](https://github.com/micahkepe/jsongrep/releases/download/v0.10.0/jsongrep-0.10.0-aarch64-apple-darwin.tar.gz) | 1.2 MiB | `native/darwin/arm64` |
+| [jsongrep-0.10.0-aarch64-apple-darwin.tar.gz.sha256](https://github.com/micahkepe/jsongrep/releases/download/v0.10.0/jsongrep-0.10.0-aarch64-apple-darwin.tar.gz.sha256) | 110 B | `native/darwin/arm64` |
+| [jsongrep-0.10.0-aarch64-unknown-linux-musl.tar.gz](https://github.com/micahkepe/jsongrep/releases/download/v0.10.0/jsongrep-0.10.0-aarch64-unknown-linux-musl.tar.gz) | 1.3 MiB | `native/linux/arm64/musl` |
+| [jsongrep-0.10.0-aarch64-unknown-linux-musl.tar.gz.sha256](https://github.com/micahkepe/jsongrep/releases/download/v0.10.0/jsongrep-0.10.0-aarch64-unknown-linux-musl.tar.gz.sha256) | 116 B | `native/linux/arm64/musl` |
+| [jsongrep-0.10.0-x86_64-apple-darwin.tar.gz](https://github.com/micahkepe/jsongrep/releases/download/v0.10.0/jsongrep-0.10.0-x86_64-apple-darwin.tar.gz) | 1.3 MiB | `native/darwin/x64` |
+| [jsongrep-0.10.0-x86_64-apple-darwin.tar.gz.sha256](https://github.com/micahkepe/jsongrep/releases/download/v0.10.0/jsongrep-0.10.0-x86_64-apple-darwin.tar.gz.sha256) | 109 B | `native/darwin/x64` |
+| [jsongrep-0.10.0-x86_64-pc-windows-msvc.zip](https://github.com/micahkepe/jsongrep/releases/download/v0.10.0/jsongrep-0.10.0-x86_64-pc-windows-msvc.zip) | 1.3 MiB | `native/win/x64` |
+| [jsongrep-0.10.0-x86_64-pc-windows-msvc.zip.sha256](https://github.com/micahkepe/jsongrep/releases/download/v0.10.0/jsongrep-0.10.0-x86_64-pc-windows-msvc.zip.sha256) | 179 B | `native/win/x64` |
+| [jsongrep-0.10.0-x86_64-unknown-linux-musl.tar.gz](https://github.com/micahkepe/jsongrep/releases/download/v0.10.0/jsongrep-0.10.0-x86_64-unknown-linux-musl.tar.gz) | 1.4 MiB | `native/linux/x64/musl` |
+| [jsongrep-0.10.0-x86_64-unknown-linux-musl.tar.gz.sha256](https://github.com/micahkepe/jsongrep/releases/download/v0.10.0/jsongrep-0.10.0-x86_64-unknown-linux-musl.tar.gz.sha256) | 115 B | `native/linux/x64/musl` |
 
 ## Popularity
 
@@ -58,8 +72,8 @@ Total: **8,011** lines of code across **29** files in the top 5 languages.
 Install metadata for jsongrep lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `jsongrep` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/jsongrep.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/jsongrep.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:50:27Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:29:55Z._
