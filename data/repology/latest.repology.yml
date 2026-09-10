@@ -1,0 +1,147 @@
+- repo: altsisyphus
+  srcname: jsongrep
+  binnames:
+    - jsongrep
+    - jsongrep-debuginfo
+  visiblename: jsongrep
+  version: 0.9.0
+  origversion: 0.9.0-alt1
+  status: outdated
+  summary: A path query language for JSON, YAML, TOML, and other serialization formats
+  maintainers:
+    - smasher@altlinux.org
+  licenses:
+    - MIT
+  categories:
+    - Development/Tools
+- repo: aur
+  srcname: jsongrep
+  binname: jsongrep
+  visiblename: jsongrep
+  version: 0.10.0
+  origversion: 0.10.0-1
+  status: newest
+  summary: CLI tool for fast querying of JSON documents using regular path expressions
+  maintainers:
+    - npreining@aur
+  licenses:
+    - MIT
+- repo: aur
+  srcname: jsongrep-bin
+  binname: jsongrep-bin
+  visiblename: jsongrep-bin
+  version: 0.10.0
+  origversion: 0.10.0-1
+  status: newest
+  summary: A JSONPath-inspired query language over JSON documents
+  maintainers:
+    - dominiquini@aur
+  licenses:
+    - MIT
+- repo: crates_io
+  srcname: jsongrep
+  visiblename: jsongrep
+  version: 0.10.0
+  origversion: null
+  status: newest
+  summary: JSONPath-inspired query language for JSON, YAML, TOML, and other serialization formats
+- repo: freebsd
+  srcname: textproc/jsongrep
+  binname: jsongrep
+  visiblename: textproc/jsongrep
+  version: 0.10.0
+  origversion: 0.10.0_1
+  status: newest
+  summary: Query language over JSON documents
+  maintainers:
+    - yuri@freebsd.org
+  categories:
+    - textproc
+- repo: homebrew
+  srcname: jsongrep
+  visiblename: jsongrep
+  version: 0.10.0
+  origversion: null
+  status: newest
+  summary: Query tool for JSON, YAML, TOML, and other structured formats
+- repo: homebrew
+  srcname: jsongrep
+  visiblename: jsongrep
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Query tool for JSON, YAML, TOML, and other structured formats
+- repo: nix_stable_26_05
+  srcname: jsongrep
+  visiblename: jsongrep
+  version: 0.9.0
+  origversion: null
+  status: outdated
+  summary: JSONPath-inspired query language
+  maintainers:
+    - yiyu@yiyuzhou.io
+  licenses:
+    - MIT
+- repo: nix_unstable
+  srcname: jsongrep
+  visiblename: jsongrep
+  version: 0.10.0
+  origversion: null
+  status: newest
+  summary: JSONPath-inspired query language
+  maintainers:
+    - yiyu@yiyuzhou.io
+  licenses:
+    - MIT
+- repo: opensuse_tumbleweed
+  subrepo: src-oss
+  srcname: jsongrep
+  binnames:
+    - jsongrep
+    - jsongrep-debuginfo
+    - jsongrep-debugsource
+    - jsongrep-bash-completion
+    - jsongrep-fish-completion
+    - jsongrep-zsh-completion
+  visiblename: jsongrep
+  version: 0.9.0
+  origversion: 0.9.0-1.4
+  status: outdated
+  summary: CLI for fast querying of JSON, YAML, TOML, JSONL, CBOR, and MessagePack documents
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
+- repo: pkgsrc_2026_2
+  srcname: textproc/jsongrep
+  binname: jsongrep
+  visiblename: textproc/jsongrep
+  version: 0.9.0
+  origversion: 0.9.0nb1
+  status: outdated
+  summary: Path query language over JSON documents
+  maintainers:
+    - pkgsrc-users@netbsd.org
+  categories:
+    - textproc
+- repo: pkgsrc_current
+  srcname: textproc/jsongrep
+  binname: jsongrep
+  visiblename: textproc/jsongrep
+  version: 0.10.0
+  origversion: null
+  status: newest
+  summary: Path query language over JSON documents
+  maintainers:
+    - pkgsrc-users@netbsd.org
+  categories:
+    - textproc
+- repo: scoop
+  subrepo: main
+  binname: jsongrep
+  visiblename: jsongrep
+  version: 0.10.0
+  origversion: null
+  status: newest
+  licenses:
+    - MIT
