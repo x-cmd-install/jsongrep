@@ -12,6 +12,18 @@ A path query language for JSON, YAML, TOML, and other serialization formats.
 x install jsongrep
 ```
 
+## 代码规模
+
+合计: **8,011** 行代码（覆盖前 5 种语言、共 **29** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| Rust | 6,676 | 771 | 817 | 17 |
+| Css | 465 | 3 | 72 | 1 |
+| Tsx | 407 | 8 | 40 | 3 |
+| Toml | 164 | 178 | 28 | 7 |
+| Nix | 80 | 0 | 11 | 1 |
+
 ## 源代码
 
 - **上游仓库**: <https://github.com/micahkepe/jsongrep>
@@ -23,6 +35,25 @@ x install jsongrep
 - **最新版本**: `v0.10.0` (2026-08-28)
 - **最近提交**: 2026-08-28
 - **Release 含资产**: 10 个
+
+## 流行度
+
+- **Star**: 669 · **Fork**: 12 · **开放 issue**: 23 · **贡献者**: 5
+
+## 累计统计
+
+- **发布数**: 14 · **已合并 PR**: 38 · **开放 PR**: 0 · **已关闭 issue**: 22 · **开放 issue**: 1 · **提交数**: 239
+
+## 最近活动
+
+| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 1 | 4 | 0 | 1 | 0 | 22 |
+| last60d | 2026-07-12 | 1 | 24 | 0 | 3 | 0 | 57 |
+| 90d | 2026-06-12 | 1 | 24 | 0 | 4 | 0 | 57 |
+| last180d | 2026-03-14 | 4 | 29 | 0 | 15 | 0 | 130 |
+| 360d | 2025-09-15 | 11 | 37 | 0 | 22 | 1 | 178 |
+| last720d | 2024-09-20 | 14 | 38 | 0 | 22 | 1 | 239 |
 
 ## Release 资产
 
@@ -39,33 +70,15 @@ x install jsongrep
 | [jsongrep-0.10.0-x86_64-unknown-linux-musl.tar.gz](https://github.com/micahkepe/jsongrep/releases/download/v0.10.0/jsongrep-0.10.0-x86_64-unknown-linux-musl.tar.gz) | 1.4 MiB | `native/linux/x64/musl` |
 | [jsongrep-0.10.0-x86_64-unknown-linux-musl.tar.gz.sha256](https://github.com/micahkepe/jsongrep/releases/download/v0.10.0/jsongrep-0.10.0-x86_64-unknown-linux-musl.tar.gz.sha256) | 115 B | `native/linux/x64/musl` |
 
-## 流行度
+## 发行版状态
 
-- **Star**: 669 · **Fork**: 12 · **开放 issue**: 23 · **贡献者**: 5
+在 [repology.org](https://repology.org/project/jsongrep) 上共有 **13** 个发行版报告此项目。**8** 个 ✅ 已是最新上游版本，**4** 个 ⚠️ 使用旧版本。
 
-## 累计统计
-
-- **发布数**: 14 · **已合并 PR**: 38 · **开放 PR**: 0 · **已关闭 issue**: 22 · **开放 issue**: 1 · **提交数**: 239
-
-## 最近活动
-
-| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 1 | 4 | 0 | 1 | 0 | 22 |
-| 90d | 2026-06-12 | 1 | 24 | 0 | 4 | 0 | 57 |
-| 360d | 2025-09-15 | 11 | 37 | 0 | 22 | 1 | 178 |
-
-## 代码规模
-
-合计: **8,011** 行代码（覆盖前 5 种语言、共 **29** 个文件）。
-
-| 语言 | 代码 | 注释 | 空行 | 文件数 |
-|------|-----:|-----:|-----:|------:|
-| Rust | 6,676 | 771 | 817 | 17 |
-| Css | 465 | 3 | 72 | 1 |
-| Tsx | 407 | 8 | 40 | 3 |
-| Toml | 164 | 178 | 28 | 7 |
-| Nix | 80 | 0 | 11 | 1 |
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Homebrew | `0.10.0` | ✅ latest |
+| Nix unstable | `0.10.0` | ✅ latest |
+| openSUSE Tumbleweed | `0.9.0` | ⚠️ outdated |
 
 ## 改进这些数据
 
@@ -76,4 +89,4 @@ jsongrep 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T16:29:55Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T21:07:33Z._

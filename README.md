@@ -12,6 +12,18 @@ A path query language for JSON, YAML, TOML, and other serialization formats.
 x install jsongrep
 ```
 
+## Code insight
+
+Total: **8,011** lines of code across **29** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Rust | 6,676 | 771 | 817 | 17 |
+| Css | 465 | 3 | 72 | 1 |
+| Tsx | 407 | 8 | 40 | 3 |
+| Toml | 164 | 178 | 28 | 7 |
+| Nix | 80 | 0 | 11 | 1 |
+
 ## Source
 
 - **Upstream**: <https://github.com/micahkepe/jsongrep>
@@ -23,6 +35,25 @@ x install jsongrep
 - **Latest**: `v0.10.0` (2026-08-28)
 - **Last commit**: 2026-08-28
 - **Assets in release**: 10
+
+## Popularity
+
+- **Stars**: 669 · **Forks**: 12 · **Open issues**: 23 · **Contributors**: 5
+
+## Totals (cumulative)
+
+- **Releases**: 14 · **Merged PRs**: 38 · **Open PRs**: 0 · **Closed issues**: 22 · **Open issues**: 1 · **Commits**: 239
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 1 | 4 | 0 | 1 | 0 | 22 |
+| last60d | 2026-07-12 | 1 | 24 | 0 | 3 | 0 | 57 |
+| 90d | 2026-06-12 | 1 | 24 | 0 | 4 | 0 | 57 |
+| last180d | 2026-03-14 | 4 | 29 | 0 | 15 | 0 | 130 |
+| 360d | 2025-09-15 | 11 | 37 | 0 | 22 | 1 | 178 |
+| last720d | 2024-09-20 | 14 | 38 | 0 | 22 | 1 | 239 |
 
 ## Release assets
 
@@ -39,33 +70,15 @@ x install jsongrep
 | [jsongrep-0.10.0-x86_64-unknown-linux-musl.tar.gz](https://github.com/micahkepe/jsongrep/releases/download/v0.10.0/jsongrep-0.10.0-x86_64-unknown-linux-musl.tar.gz) | 1.4 MiB | `native/linux/x64/musl` |
 | [jsongrep-0.10.0-x86_64-unknown-linux-musl.tar.gz.sha256](https://github.com/micahkepe/jsongrep/releases/download/v0.10.0/jsongrep-0.10.0-x86_64-unknown-linux-musl.tar.gz.sha256) | 115 B | `native/linux/x64/musl` |
 
-## Popularity
+## Distribution status
 
-- **Stars**: 669 · **Forks**: 12 · **Open issues**: 23 · **Contributors**: 5
+Reported by **13** distros on [repology.org](https://repology.org/project/jsongrep). **8** are ✅ on the latest upstream release, **4** are ⚠️ on an older version.
 
-## Totals (cumulative)
-
-- **Releases**: 14 · **Merged PRs**: 38 · **Open PRs**: 0 · **Closed issues**: 22 · **Open issues**: 1 · **Commits**: 239
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 1 | 4 | 0 | 1 | 0 | 22 |
-| 90d | 2026-06-12 | 1 | 24 | 0 | 4 | 0 | 57 |
-| 360d | 2025-09-15 | 11 | 37 | 0 | 22 | 1 | 178 |
-
-## Code size
-
-Total: **8,011** lines of code across **29** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Rust | 6,676 | 771 | 817 | 17 |
-| Css | 465 | 3 | 72 | 1 |
-| Tsx | 407 | 8 | 40 | 3 |
-| Toml | 164 | 178 | 28 | 7 |
-| Nix | 80 | 0 | 11 | 1 |
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `0.10.0` | ✅ latest |
+| Nix unstable | `0.10.0` | ✅ latest |
+| openSUSE Tumbleweed | `0.9.0` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -76,4 +89,4 @@ Install metadata for jsongrep lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:29:55Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T21:07:32Z._
