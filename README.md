@@ -14,14 +14,14 @@ x install jsongrep
 
 ## Code insight
 
-Total: **8,011** lines of code across **29** files in the top 5 languages.
+Total: **8,000** lines of code across **29** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 6,676 | 771 | 817 | 17 |
+| Rust | 6,664 | 771 | 815 | 17 |
 | Css | 465 | 3 | 72 | 1 |
 | Tsx | 407 | 8 | 40 | 3 |
-| Toml | 164 | 178 | 28 | 7 |
+| Toml | 165 | 178 | 28 | 7 |
 | Nix | 80 | 0 | 11 | 1 |
 
 ## Source
@@ -33,27 +33,27 @@ Total: **8,011** lines of code across **29** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.10.0` (2026-08-28)
-- **Last commit**: 2026-08-28
+- **Last commit**: 2026-09-14
 - **Assets in release**: 10
 
 ## Popularity
 
-- **Stars**: 669 · **Forks**: 12 · **Open issues**: 23 · **Contributors**: 5
+- **Stars**: 670 · **Forks**: 12 · **Open issues**: 23 · **Contributors**: 5
 
 ## Totals (cumulative)
 
-- **Releases**: 14 · **Merged PRs**: 38 · **Open PRs**: 0 · **Closed issues**: 22 · **Open issues**: 1 · **Commits**: 239
+- **Releases**: 14 · **Merged PRs**: 38 · **Open PRs**: 0 · **Closed issues**: 22 · **Open issues**: 1 · **Commits**: 241
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 1 | 4 | 0 | 1 | 0 | 21 |
-| last60d | 2026-07-15 | 1 | 24 | 0 | 3 | 0 | 26 |
-| 90d | 2026-06-15 | 1 | 24 | 0 | 4 | 0 | 57 |
-| last180d | 2026-03-17 | 4 | 29 | 0 | 15 | 0 | 127 |
-| 360d | 2025-09-18 | 11 | 37 | 0 | 22 | 1 | 178 |
-| last720d | 2024-09-23 | 14 | 38 | 0 | 22 | 1 | 239 |
+| 30d | 2026-08-15 | 1 | 4 | 0 | 1 | 0 | 23 |
+| last60d | 2026-07-16 | 1 | 24 | 0 | 3 | 0 | 28 |
+| 90d | 2026-06-16 | 1 | 24 | 0 | 4 | 0 | 59 |
+| last180d | 2026-03-18 | 4 | 29 | 0 | 15 | 0 | 129 |
+| 360d | 2025-09-19 | 11 | 37 | 0 | 22 | 1 | 180 |
+| last720d | 2024-09-24 | 14 | 38 | 0 | 22 | 1 | 241 |
 
 ## Release assets
 
@@ -70,16 +70,6 @@ Total: **8,011** lines of code across **29** files in the top 5 languages.
 | [jsongrep-0.10.0-x86_64-unknown-linux-musl.tar.gz](https://github.com/micahkepe/jsongrep/releases/download/v0.10.0/jsongrep-0.10.0-x86_64-unknown-linux-musl.tar.gz) | 1.4 MiB | `native/linux/x64/musl` |
 | [jsongrep-0.10.0-x86_64-unknown-linux-musl.tar.gz.sha256](https://github.com/micahkepe/jsongrep/releases/download/v0.10.0/jsongrep-0.10.0-x86_64-unknown-linux-musl.tar.gz.sha256) | 115 B | `native/linux/x64/musl` |
 
-## Distribution status
-
-Reported by **13** distros on [repology.org](https://repology.org/project/jsongrep). **8** are ✅ on the latest upstream release, **4** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `0.10.0` | ✅ latest |
-| Nix unstable | `0.10.0` | ✅ latest |
-| openSUSE Tumbleweed | `0.9.0` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for jsongrep lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `jsongrep` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -89,4 +79,4 @@ Install metadata for jsongrep lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T05:02:03Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T05:27:46Z._
