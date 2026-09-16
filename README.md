@@ -48,12 +48,12 @@ Total: **8,000** lines of code across **29** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-16 | 1 | 4 | 0 | 1 | 0 | 23 |
-| last60d | 2026-07-17 | 1 | 24 | 0 | 3 | 0 | 28 |
-| 90d | 2026-06-17 | 1 | 24 | 0 | 4 | 0 | 59 |
-| last180d | 2026-03-19 | 4 | 29 | 0 | 15 | 0 | 129 |
-| 360d | 2025-09-20 | 11 | 37 | 0 | 22 | 1 | 180 |
-| last720d | 2024-09-25 | 14 | 38 | 0 | 22 | 1 | 241 |
+| 30d | 2026-08-17 | 1 | 4 | 0 | 1 | 0 | 23 |
+| last60d | 2026-07-18 | 1 | 6 | 0 | 2 | 0 | 28 |
+| 90d | 2026-06-18 | 1 | 24 | 0 | 4 | 0 | 59 |
+| last180d | 2026-03-20 | 4 | 29 | 0 | 15 | 0 | 129 |
+| 360d | 2025-09-21 | 11 | 37 | 0 | 22 | 1 | 180 |
+| last720d | 2024-09-26 | 14 | 38 | 0 | 22 | 1 | 241 |
 
 ## Release assets
 
@@ -79,4 +79,4 @@ Install metadata for jsongrep lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260915.yml` · 2026-09-15T05:14:20Z._
+_Snapshot: `data/card/260916.yml` · 2026-09-16T04:59:26Z._
