@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 110,
       "digest": "sha256:b451238abbbafdcc99d2b6ca64e7d1855002b86d84ea4fbce9308d7e76578450",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-08-28T03:00:17Z",
       "updated_at": "2026-08-28T03:00:17Z",
       "browser_download_url": "https://github.com/micahkepe/jsongrep/releases/download/v0.10.0/jsongrep-0.10.0-aarch64-apple-darwin.tar.gz.sha256"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 116,
       "digest": "sha256:2e9e38a6d37071acc1de05afbc68d5695208b3e3f02d8568d8eba1088bc2331f",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-08-28T02:59:52Z",
       "updated_at": "2026-08-28T02:59:52Z",
       "browser_download_url": "https://github.com/micahkepe/jsongrep/releases/download/v0.10.0/jsongrep-0.10.0-aarch64-unknown-linux-musl.tar.gz.sha256"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 109,
       "digest": "sha256:8300af045c26aa9d8ffc4da7ba47effef2cde90cb3aacc6758549ffac9db006f",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-08-28T03:00:02Z",
       "updated_at": "2026-08-28T03:00:02Z",
       "browser_download_url": "https://github.com/micahkepe/jsongrep/releases/download/v0.10.0/jsongrep-0.10.0-x86_64-apple-darwin.tar.gz.sha256"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 1340285,
       "digest": "sha256:5a906a6e2a0db04a83507a97282ca9419aa656ebca8e9804139f4c80df95b896",
-      "download_count": 54,
+      "download_count": 57,
       "created_at": "2026-08-28T03:00:52Z",
       "updated_at": "2026-08-28T03:00:52Z",
       "browser_download_url": "https://github.com/micahkepe/jsongrep/releases/download/v0.10.0/jsongrep-0.10.0-x86_64-pc-windows-msvc.zip"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 179,
       "digest": "sha256:81e752d5be2a8036c34c920795258393ae6390751329ae5b5df871a1e82178b6",
-      "download_count": 15,
+      "download_count": 16,
       "created_at": "2026-08-28T03:00:52Z",
       "updated_at": "2026-08-28T03:00:52Z",
       "browser_download_url": "https://github.com/micahkepe/jsongrep/releases/download/v0.10.0/jsongrep-0.10.0-x86_64-pc-windows-msvc.zip.sha256"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 1459848,
       "digest": "sha256:ae18af564e553d0918c783f5f7cc5a71d7b1cb2e65319280f8251755f78ae9e6",
-      "download_count": 181,
+      "download_count": 183,
       "created_at": "2026-08-28T02:59:41Z",
       "updated_at": "2026-08-28T02:59:41Z",
       "browser_download_url": "https://github.com/micahkepe/jsongrep/releases/download/v0.10.0/jsongrep-0.10.0-x86_64-unknown-linux-musl.tar.gz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 115,
       "digest": "sha256:98b9aa07b70109ae1e00d7f1bf91dbb22742b69991bdb1110a2d25b258c883a6",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-08-28T02:59:41Z",
       "updated_at": "2026-08-28T02:59:41Z",
       "browser_download_url": "https://github.com/micahkepe/jsongrep/releases/download/v0.10.0/jsongrep-0.10.0-x86_64-unknown-linux-musl.tar.gz.sha256"
