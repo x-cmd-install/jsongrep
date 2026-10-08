@@ -38,7 +38,7 @@ Total: **8,000** lines of code across **29** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 675 · **Forks**: 12 · **Open issues**: 23 · **Contributors**: 5
+- **Stars**: 677 · **Forks**: 12 · **Open issues**: 23 · **Contributors**: 5
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **8,000** lines of code across **29** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-07 | 0 | 0 | 0 | 0 | 0 | 2 |
-| last60d | 2026-08-08 | 1 | 4 | 0 | 1 | 0 | 24 |
-| 90d | 2026-07-09 | 1 | 24 | 0 | 3 | 0 | 59 |
-| last180d | 2026-04-10 | 2 | 26 | 0 | 5 | 0 | 71 |
-| 360d | 2025-10-12 | 11 | 37 | 0 | 22 | 1 | 180 |
-| last720d | 2024-10-17 | 14 | 38 | 0 | 22 | 1 | 241 |
+| 30d | 2026-09-08 | 0 | 0 | 0 | 0 | 0 | 2 |
+| last60d | 2026-08-09 | 1 | 4 | 0 | 1 | 0 | 24 |
+| 90d | 2026-07-10 | 1 | 24 | 0 | 3 | 0 | 59 |
+| last180d | 2026-04-11 | 2 | 26 | 0 | 5 | 0 | 71 |
+| 360d | 2025-10-13 | 11 | 37 | 0 | 22 | 1 | 180 |
+| last720d | 2024-10-18 | 14 | 38 | 0 | 22 | 1 | 241 |
 
 ## Release assets
 
@@ -79,4 +79,4 @@ Install metadata for jsongrep lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261007.yml` · 2026-10-07T05:59:49Z._
+_Snapshot: `data/card/261008.yml` · 2026-10-08T06:09:12Z._
