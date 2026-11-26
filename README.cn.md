@@ -38,22 +38,22 @@ x install jsongrep
 
 ## 流行度
 
-- **Star**: 678 · **Fork**: 13 · **开放 issue**: 25 · **贡献者**: 6
+- **Star**: 678 · **Fork**: 14 · **开放 issue**: 25 · **贡献者**: 6
 
 ## 累计统计
 
-- **发布数**: 14 · **已合并 PR**: 39 · **开放 PR**: 1 · **已关闭 issue**: 22 · **开放 issue**: 3 · **提交数**: 242
+- **发布数**: 14 · **已合并 PR**: 39 · **开放 PR**: 2 · **已关闭 issue**: 22 · **开放 issue**: 3 · **提交数**: 242
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 0 | 1 | 1 | 0 | 2 | 1 |
-| last60d | 2026-09-26 | 0 | 1 | 1 | 0 | 2 | 1 |
-| 90d | 2026-08-27 | 1 | 1 | 1 | 1 | 2 | 3 |
-| last180d | 2026-05-29 | 1 | 25 | 1 | 4 | 2 | 61 |
-| 360d | 2025-11-30 | 10 | 38 | 1 | 22 | 3 | 179 |
-| last720d | 2024-12-05 | 14 | 39 | 1 | 22 | 3 | 242 |
+| 30d | 2026-10-27 | 0 | 1 | 2 | 0 | 2 | 0 |
+| last60d | 2026-09-27 | 0 | 1 | 2 | 0 | 2 | 0 |
+| 90d | 2026-08-28 | 1 | 1 | 2 | 0 | 2 | 0 |
+| last180d | 2026-05-30 | 1 | 25 | 2 | 4 | 2 | 0 |
+| 360d | 2025-12-01 | 10 | 38 | 2 | 22 | 3 | 0 |
+| last720d | 2024-12-06 | 14 | 39 | 2 | 22 | 3 | 242 |
 
 ## Release 资产
 
@@ -70,16 +70,6 @@ x install jsongrep
 | [jsongrep-0.10.0-x86_64-unknown-linux-musl.tar.gz](https://github.com/micahkepe/jsongrep/releases/download/v0.10.0/jsongrep-0.10.0-x86_64-unknown-linux-musl.tar.gz) | 1.4 MiB | `native/linux/x64/musl` |
 | [jsongrep-0.10.0-x86_64-unknown-linux-musl.tar.gz.sha256](https://github.com/micahkepe/jsongrep/releases/download/v0.10.0/jsongrep-0.10.0-x86_64-unknown-linux-musl.tar.gz.sha256) | 115 B | `native/linux/x64/musl` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/jsongrep) 上共有 **14** 个发行版报告此项目。**10** 个 ✅ 已是最新上游版本，**3** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Homebrew | `0.10.0` | ✅ latest |
-| Nix unstable | `0.10.0` | ✅ latest |
-| openSUSE Tumbleweed | `0.9.0` | ⚠️ outdated |
-
 ## 改进这些数据
 
 jsongrep 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `jsongrep` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -89,4 +79,4 @@ jsongrep 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261125.yml` · 2026-11-25T08:38:18Z._
+_数据快照: `data/card/261126.yml` · 2026-11-26T08:36:38Z._

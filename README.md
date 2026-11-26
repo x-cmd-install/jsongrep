@@ -38,22 +38,22 @@ Total: **8,000** lines of code across **29** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 678 · **Forks**: 13 · **Open issues**: 25 · **Contributors**: 6
+- **Stars**: 678 · **Forks**: 14 · **Open issues**: 25 · **Contributors**: 6
 
 ## Totals (cumulative)
 
-- **Releases**: 14 · **Merged PRs**: 39 · **Open PRs**: 1 · **Closed issues**: 22 · **Open issues**: 3 · **Commits**: 242
+- **Releases**: 14 · **Merged PRs**: 39 · **Open PRs**: 2 · **Closed issues**: 22 · **Open issues**: 3 · **Commits**: 242
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 0 | 1 | 1 | 0 | 2 | 1 |
-| last60d | 2026-09-26 | 0 | 1 | 1 | 0 | 2 | 1 |
-| 90d | 2026-08-27 | 1 | 1 | 1 | 1 | 2 | 3 |
-| last180d | 2026-05-29 | 1 | 25 | 1 | 4 | 2 | 61 |
-| 360d | 2025-11-30 | 10 | 38 | 1 | 22 | 3 | 179 |
-| last720d | 2024-12-05 | 14 | 39 | 1 | 22 | 3 | 242 |
+| 30d | 2026-10-27 | 0 | 1 | 2 | 0 | 2 | 0 |
+| last60d | 2026-09-27 | 0 | 1 | 2 | 0 | 2 | 0 |
+| 90d | 2026-08-28 | 1 | 1 | 2 | 0 | 2 | 0 |
+| last180d | 2026-05-30 | 1 | 25 | 2 | 4 | 2 | 0 |
+| 360d | 2025-12-01 | 10 | 38 | 2 | 22 | 3 | 0 |
+| last720d | 2024-12-06 | 14 | 39 | 2 | 22 | 3 | 242 |
 
 ## Release assets
 
@@ -70,16 +70,6 @@ Total: **8,000** lines of code across **29** files in the top 5 languages.
 | [jsongrep-0.10.0-x86_64-unknown-linux-musl.tar.gz](https://github.com/micahkepe/jsongrep/releases/download/v0.10.0/jsongrep-0.10.0-x86_64-unknown-linux-musl.tar.gz) | 1.4 MiB | `native/linux/x64/musl` |
 | [jsongrep-0.10.0-x86_64-unknown-linux-musl.tar.gz.sha256](https://github.com/micahkepe/jsongrep/releases/download/v0.10.0/jsongrep-0.10.0-x86_64-unknown-linux-musl.tar.gz.sha256) | 115 B | `native/linux/x64/musl` |
 
-## Distribution status
-
-Reported by **14** distros on [repology.org](https://repology.org/project/jsongrep). **10** are ✅ on the latest upstream release, **3** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `0.10.0` | ✅ latest |
-| Nix unstable | `0.10.0` | ✅ latest |
-| openSUSE Tumbleweed | `0.9.0` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for jsongrep lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `jsongrep` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -89,4 +79,4 @@ Install metadata for jsongrep lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T08:38:18Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T08:36:38Z._
